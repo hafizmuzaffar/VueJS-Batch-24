@@ -1,0 +1,1 @@
+tersebut dengan pengalaman programming teman teman, baik ketika sekolah, kuliah, ataupun bekerja. Kemudian buatlah commit "menambahkan pengalaman programming" dan jalankan perintah git push.
